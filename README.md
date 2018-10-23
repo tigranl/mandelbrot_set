@@ -4,4 +4,7 @@
     <img src="https://i.imgur.com/fVeOUcX.png">
     </br>
 </p>
-Simple mandelbrot set implementation in JS.
+
+---
+
+### Simple mandelbrot set implementation in JS.
